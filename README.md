@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Matthew, a coder. I'm the founder of Youthacks, a non-profit.
 <!--
 **mattsoh/mattsoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
