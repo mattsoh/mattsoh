@@ -1,5 +1,10 @@
 ## Hi there 👋
 I'm Matthew, a coder. I'm the founder of Youthacks, a non-profit.
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=mattsoh&show_icons=true&theme=tokyonight)](https://github.com/mattsoh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattsoh&layout=compact&theme=tokyonight)](https://github.com/mattsoh)
+[![Top Langs](https://github-readme-stats.hackclub.dev/api/wakatime?username=86&api_domain=hackatime.hackclub.com&theme=tokyonight&custom_title=Local+Languages&layout=compact&langs_count=8
+)](https://github.com/mattsoh)
 <!--
 **mattsoh/mattsoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
